@@ -1,0 +1,4 @@
+interface:
+  display_name: "气象论文助手"
+  short_description: "气象论文科学审查、专业英文润色与文献调研，按目标期刊检查，默认 JAMES"
+  default_prompt: "使用 $atmospheric-paper-assistant 检查并修改我的气象论文，按目标期刊核对科学论证与证据，润色专业英文，并列出需要作者确认的问题；未指定期刊时默认 JAMES。"
